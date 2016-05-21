@@ -22,6 +22,7 @@
     "jquery": "^2.2.4"
   },
   "devDependencies": {
+    "npm": "^3.9.2",
     "angular-mocks": "^1.5.5",
     "jasmine-core": "^2.4.1",
     "karma": "^0.12.37",
