@@ -47,4 +47,13 @@ add angular to package.json
    }
  ```
 
+add karma (a test runner) and jasmine to out test dependencies:
+ - run ```npm install karma@0.12.37 --save-dev``` https://www.npmjs.com/package/karma
+   ```//install karma with version 0.12.37 this creates us "karma": "^0.12.37" --> 0.12.37 to 1.0.0``` 
+ - run ```npm install karma-jasmine@0.3.8 --save-dev``` https://github.com/karma-runner/karma-jasmine
+   ```//karma adapter for jasmine framework```
+ - 
+
+ 
+
 
