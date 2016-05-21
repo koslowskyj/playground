@@ -24,7 +24,6 @@ run npm init:
       "name": "angular-maven-example",
       "version": "0.0.1",
       "description": "test project to demonstrate maven npm integration",
-      "main": "index.html",
       "scripts": {
          "test": "karma start"
       },
