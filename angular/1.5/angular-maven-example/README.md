@@ -17,6 +17,29 @@ create a new maven project:
 
 run npm init:
  - creates package json file see also: https://docs.npmjs.com/getting-started/using-a-package.json`
+ - output should be similar to this
+ 
+```
+   {
+      "name": "angular-maven-example",
+      "version": "0.0.1",
+      "description": "test project to demonstrate maven npm integration",
+      "main": "index.html",
+      "scripts": {
+         "test": "karma start"
+      },
+      "repository": {
+         "type": "git",
+         "url": "https://github.com/koslowskyj/playground/tree/master/angular/1.5/angular-maven-example.git"
+      },
+      "author": "koslowskyj",
+      "license": "GPL-3.0",
+      "dependencies": {
+         "angular": "^1.5.5"
+      }
+   }
+```
+
  - package.json --> project file and dependency mangement form npm?
 
 add angular to package.json
