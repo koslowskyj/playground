@@ -32,7 +32,7 @@ run npm init:
          "url": "https://github.com/koslowskyj/playground/tree/master/angular/1.5/angular-maven-example.git"
       },
       "author": "koslowskyj",
-      "license": "GPL-3.0",
+      "license": "GPL-3.0"
    }
 ```
 
