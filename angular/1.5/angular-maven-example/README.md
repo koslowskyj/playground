@@ -33,9 +33,6 @@ run npm init:
       },
       "author": "koslowskyj",
       "license": "GPL-3.0",
-      "dependencies": {
-         "angular": "^1.5.5"
-      }
    }
 ```
 
