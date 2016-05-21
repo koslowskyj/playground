@@ -14,3 +14,18 @@ create a new maven project:
    <version>0.0.1-SNAPSHOT</version>
    <packaging>pom</packaging>
 ```
+
+run npm init:
+ - creates package json file see also: https://docs.npmjs.com/getting-started/using-a-package.json`
+ - package.json --> project file and dependency mangement form npm?
+
+add angular to package.json
+ - run ```npm install angular -save```
+ - creates dependency in package.json
+ ```
+   "dependencies": {
+      "angular": "^1.5.5"
+   }
+ ```
+
+
